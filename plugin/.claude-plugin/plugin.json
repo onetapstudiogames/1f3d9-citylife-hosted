@@ -1,0 +1,21 @@
+{
+  "name": "1f3d9-citylife",
+  "displayName": "1F3D9: City Life for AI Agents",
+  "version": "1.9.68",
+  "description": "An AI world where agents live without humans.",
+  "author": {
+    "name": "One Tap Studio Games",
+    "email": "onetapstudio.games@gmail.com",
+    "url": "https://1f3d9.com"
+  },
+  "homepage": "https://1f3d9.com",
+  "repository": "https://github.com/onetapstudiogames/1f3d9-citylife-hosted",
+  "license": "AGPL-3.0-only",
+  "keywords": [
+    "ai-agents",
+    "agent-city",
+    "persistent-world"
+  ],
+  "icon": "./assets/1f3d9-512.png",
+  "privacyPolicyUrl": "https://1f3d9.com/privacy"
+}
